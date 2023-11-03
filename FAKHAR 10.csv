@@ -1,0 +1,37 @@
+id,date,versus,ground,city,4s_last_5,6s_last_5,avg_runs,score_last_5,position,opponent_level,score_group
+1091,"30th August, 2020",England,Old Trafford,Manchester,0.0,0.0,0.0,0.0,1,strong,medium
+1094,"1st September, 2020",England,Old Trafford,Manchester,5.0,1.0,36.0,36.0,1,strong,low
+1105,"7th November, 2020",Zimbabwe,Rawalpindi Cricket Stadium,Rawalpindi,5.0,1.0,18.5,37.0,1,weak,medium
+1106,"8th November, 2020",Zimbabwe,Rawalpindi Cricket Stadium,Rawalpindi,7.0,2.0,18.67,56.0,1,weak,low
+1107,"10th November, 2020",Zimbabwe,Rawalpindi Cricket Stadium,Rawalpindi,7.0,2.0,15.25,61.0,1,weak,medium
+1145,"10th April, 2021",South Africa,Wanderers Stadium,Johannesburg,8.0,3.0,16.4,82.0,1,strong,medium
+1147,"14th April, 2021",South Africa,SuperSport Park,Centurion,7.0,3.0,14.6,73.0,1,strong,low
+1148,"16th April, 2021",South Africa,SuperSport Park,Centurion,9.0,3.0,16.0,80.0,1,strong,high
+1154,"21st April, 2021",Zimbabwe,Harare Sports Club,Harare,12.0,6.0,24.2,121.0,1,weak,low
+1156,"23rd April, 2021",Zimbabwe,Harare Sports Club,Harare,14.0,6.0,25.8,129.0,1,weak,low
+1158,"25th April, 2021",Zimbabwe,Harare Sports Club,Harare,13.0,5.0,22.0,110.0,1,weak,low
+1191,"17th July, 2021",England,Trent Bridge,Nottingham,9.0,4.0,16.6,83.0,1,strong,medium
+1193,"18th July, 2021",England,Headingley,Leeds,8.0,7.0,20.2,101.0,1,strong,low
+1195,"20th July, 2021",England,Old Trafford,Manchester,4.0,3.0,9.8,49.0,1,strong,medium
+1208,"31st July, 2021",West Indies,Providence Stadium,Providence,3.0,4.0,12.0,60.0,1,weak,low
+1367,"26th October, 2021",New Zealand,Sharjah Cricket Stadium,Sharjah,5.0,4.0,14.6,73.0,1,strong,low
+1377,"29th October, 2021",Afghanistan,Dubai International Cricket Stadium,Dubai,5.0,5.0,16.8,84.0,1,weak,medium
+1386,"2nd November, 2021",Namibia,Sheikh Zayed Stadium,Abu Dhabi,6.0,3.0,17.6,88.0,1,weak,low
+1406,"7th November, 2021",Scotland,Sharjah Cricket Stadium,Sharjah,5.0,3.0,17.0,85.0,1,weak,low
+1420,"11th November, 2021",Australia,Dubai International Cricket Stadium,Dubai,4.0,2.0,13.8,69.0,1,strong,high
+1439,"19th November, 2021",Bangladesh,Shere Bangla National Stadium,Mirpur,5.0,6.0,21.8,109.0,1,weak,medium
+1443,"20th November, 2021",Bangladesh,Shere Bangla National Stadium,Mirpur,9.0,5.0,26.4,132.0,1,weak,high
+1448,"13th December, 2021",West Indies,National Stadium,Karachi,9.0,7.0,31.8,159.0,1,weak,low
+1449,"14th December, 2021",West Indies,National Stadium,Karachi,10.0,7.0,32.8,164.0,1,weak,low
+1450,"16th December, 2021",West Indies,National Stadium,Karachi,11.0,7.0,33.2,166.0,1,weak,low
+1504,"5th April, 2022",Australia,Gaddafi Stadium,Lahore,10.0,3.0,24.6,123.0,1,strong,low
+1750,"28th August, 2022",India,Dubai International Cricket Stadium,Dubai,6.0,3.0,17.8,89.0,1,strong,low
+1756,"2nd September, 2022",Hong Kong,Sharjah Cricket Stadium,Sharjah,6.0,0.0,8.4,42.0,1,weak,high
+1758,"4th September, 2022",India,Dubai International Cricket Stadium,Dubai,8.0,2.0,17.0,85.0,1,strong,low
+1760,"7th September, 2022",Afghanistan,Sharjah Cricket Stadium,Sharjah,9.0,2.0,18.0,90.0,1,weak,low
+1764,"9th September, 2022",Sri Lanka,Dubai International Cricket Stadium,Dubai,8.0,2.0,16.6,83.0,1,strong,low
+1769,"11th September, 2022",Sri Lanka,Dubai International Cricket Stadium,Dubai,9.0,2.0,19.2,96.0,1,strong,low
+1852,"30th October, 2022",Netherlands,Perth Stadium,Perth,7.0,2.0,17.2,86.0,1,weak,medium
+2045,"14th April, 2023",New Zealand,Gaddafi Stadium,Lahore,7.0,0.0,10.6,53.0,1,strong,high
+2046,"15th April, 2023",New Zealand,Gaddafi Stadium,Lahore,9.0,2.0,17.0,85.0,1,strong,low
+2047,"17th April, 2023",New Zealand,Gaddafi Stadium,Lahore,8.0,2.0,16.0,80.0,1,strong,medium
